@@ -1,0 +1,6 @@
+algorithm = 'MAT-DIRECT', indicator = 'hyp', folder = '4-multi-modal_5-weakly-structured', coco_version = '1.1.1.137'
+% MAT-DIRECT: MATSuMoTo library extension to multiobjective optimization with DIRECT as solver as submitted by Al-Dujaili and Suresh for BBOB 2016 - reference values current data (reconstructed)
+function =  52, dim =  20, bbob-biobj_f52_d20_hyp.dat, 1:1500|7.8e+002, 2:1459|8.8e+002, 3:1500|8.0e+002, 4:1496|1.7e+003, 5:1459|2.7e+003, 6:1496|5.7e+003, 7:1466|1.5e+003, 8:1474|3.5e+003, 9:1491|3.8e+002, 10:1491|9.5e+002
+function =  48, dim =  20, bbob-biobj_f48_d20_hyp.dat, 1:1486|8.4e+001, 2:1496|2.0e+002, 3:1496|1.2e+002, 4:1491|1.4e+002, 5:1481|1.4e+002, 6:1496|1.3e+002, 7:1500|1.1e+002, 8:1471|1.6e+002, 9:1496|1.1e+002, 10:1496|3.0e+002
+function =  51, dim =  20, bbob-biobj_f51_d20_hyp.dat, 1:1459|1.7e+003, 2:1500|3.8e+002, 3:1486|1.9e+003, 4:1486|2.3e+003, 5:1486|3.1e+003, 6:1491|2.0e+003, 7:1459|1.1e+003, 8:1500|4.3e+003, 9:1459|3.0e+003, 10:1459|3.1e+003
+function =  49, dim =  20, bbob-biobj_f49_d20_hyp.dat, 1:1486|1.4e+002, 2:1491|4.0e+001, 3:1491|1.4e+002, 4:1496|2.2e+002, 5:1500|1.1e+002, 6:1486|6.3e+001, 7:1481|1.6e+002, 8:1500|7.9e+001, 9:1481|2.0e+002, 10:1481|1.1e+002

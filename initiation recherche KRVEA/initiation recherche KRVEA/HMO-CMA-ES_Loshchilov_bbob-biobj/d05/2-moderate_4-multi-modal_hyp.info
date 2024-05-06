@@ -1,0 +1,6 @@
+algorithm = 'HMO-CMA-ES', indicator = 'hyp', folder = '2-moderate_4-multi-modal', coco_version = '1.1.1.137'
+% HMO-CMA-ES: hybrid/portfolio of several old and new variants of CMA-ES, complemented by BOBYQA as warm start as submitted by Loshchilov and Glasmachers for BBOB 2016 - reference values current data (reconstructed)
+function =  25, dim =  5, bbob-biobj_f25_d05_hyp.dat, 10:5953538|1.4e-004, 1:5928683|1.9e-004, 2:5930826|9.0e-004, 3:5709032|5.6e-004, 4:5952873|1.7e-004, 5:5856958|9.5e-004, 6:5881546|2.5e-003, 7:5954764|1.1e-008, 8:5929552|7.5e-007, 9:5915801|3.0e-006
+function =  31, dim =  5, bbob-biobj_f31_d05_hyp.dat, 10:5413964|3.0e-004, 1:5937895|2.2e-004, 2:5954686|1.0e-003, 3:5844369|4.5e-004, 4:5692823|1.7e-003, 5:5920061|9.7e-005, 6:5870172|5.7e-005, 7:5964447|4.5e-004, 8:5963309|1.9e-004, 9:5928388|9.3e-004
+function =  32, dim =  5, bbob-biobj_f32_d05_hyp.dat, 10:5942629|4.4e-006, 1:5916817|2.3e-004, 2:5919273|1.3e-003, 3:5926974|2.6e-004, 4:5795281|1.2e-004, 5:5868819|7.4e-004, 6:5891597|3.4e-004, 7:5613558|9.8e-005, 8:5914781|1.2e-005, 9:5962951|4.5e-004
+function =  24, dim =  5, bbob-biobj_f24_d05_hyp.dat, 10:5940887|5.5e-004, 1:5856463|9.2e-004, 2:5647931|7.9e-004, 3:5918527|8.5e-004, 4:5844355|1.2e-003, 5:5686505|7.3e-004, 6:5864551|3.8e-004, 7:5950797|2.2e-003, 8:5865501|5.0e-004, 9:5865729|3.5e-004
